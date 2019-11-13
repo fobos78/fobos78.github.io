@@ -7,3 +7,8 @@
 
 ## Мои проекты  
 [Проект](fobos78.github.io/project1/ "проект") - 09-11 первая часть проекта
+
+## Полезные ссылки  
+[hexler.io](hexler.io "js") - обучение js  
+
+[javascript.ru](javascript.ru "js") - книга js  
