@@ -10,5 +10,5 @@
 
 ## Полезные ссылки  
 [hexler.io](hexler.io "js") - обучение js  
-
 [javascript.ru](javascript.ru "js") - книга js  
+[animate.css](https://daneden.github.io/animate.css/ "animate.css") - анимации animate.css  
