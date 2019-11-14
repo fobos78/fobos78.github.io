@@ -9,6 +9,6 @@
 [Проект](fobos78.github.io/project1/ "проект") - 09-11 первая часть проекта
 
 ## Полезные ссылки  
-[hexler.io]((https://hexler.io "js") - обучение js  
-[javascript.ru]((https://javascript.ru "js") - книга js  
+[hexler.io](https://hexler.io "js") - обучение js  
+[javascript.ru](https://javascript.ru "js") - книга js  
 [animate.css](https://daneden.github.io/animate.css/ "animate.css") - анимации animate.css  
