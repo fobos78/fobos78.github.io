@@ -13,3 +13,4 @@
 [javascript.ru](https://javascript.ru "js") - книга js  
 [animate.css](https://daneden.github.io/animate.css/ "animate.css") - анимации animate.css  
 [plnkr.co](https://plnkr.co/edit/?p=catalogue "plnkr.co") - plnkr.co  
+[fontawesome.ru/icon/](https://fontawesome.ru/icon/angle-up/ "fontawesome.ru/icon/") - иконки fontawesome.ru/icon/   
