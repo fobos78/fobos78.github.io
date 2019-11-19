@@ -19,3 +19,4 @@
 [fontawesome.ru/icon/](https://fontawesome.ru/icon/angle-up/ "fontawesome.ru/icon/") - иконки fontawesome.ru/icon/   
 [learngitbranching.js.org/](https://learngitbranching.js.org/ "learngitbranching.js.org/") - Это приложение создано, чтобы помочь новичкам постичь мощные возможности ветвления и работы с git.   
 [git-scm.com/book/ru/v2/](https://git-scm.com/book/ru/v2/ "git-scm.com/book/ru/v2/") - The entire Pro Git book    
+[try.github.io/](https://try.github.io/ "try.github.io/") - Ресурсы для изучения Git
