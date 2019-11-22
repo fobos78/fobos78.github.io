@@ -23,3 +23,4 @@
 [git-scm.com/book/ru/v2/](https://git-scm.com/book/ru/v2/ "git-scm.com/book/ru/v2/") - The entire Pro Git book    
 [try.github.io/](https://try.github.io/ "try.github.io/") - Ресурсы для изучения Git  
 [github.github.com/training-kit/](https://github.github.com/training-kit/downloads/ru/github-git-cheat-sheet/ "github.github.com/training-kit/") - команды в терминале для git   
+[rgblog.ru](http://rgblog.ru/page/git-dlja-chajnika-komandy-kotorye-pomogut-nachat-rabotu "rgblog.ru") - простые команды  
