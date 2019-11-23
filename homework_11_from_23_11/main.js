@@ -156,7 +156,7 @@ $('form').submit(function(e){ // e = events
 // отправляем форму при нажатии клавиши end
 
 $(document).keypress(function (enter) {
-    if ((enter.which == 35)&&(!promo_form.classList.contains(def_animation))) 
+    if ((enter.which == 32)&&(!promo_form.classList.contains(def_animation))) 
     {
         document.getElementById("my-button").click();
         console.log(enter.which);
