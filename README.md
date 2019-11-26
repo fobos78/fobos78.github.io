@@ -12,7 +12,8 @@
 
 ## Мои проекты  
 [Проект](fobos78.github.io/project1/ "проект") - 09-11 первая часть проекта  
-[Заказ](https://fobos78.github.io/yoga%20project/ "проект") - 22-11 Первый заказ ( сделал сайтик сестре )    
+[Заказ](https://fobos78.github.io/yoga%20project/ "проект") - 22-11 Первый заказ ( сделал сайтик сестре )  
+[Калькулятор](https://fobos78.github.io/calculator/ "Калькулятор") - Калькулятор, простой еще немного нужно доработать.    
 
 ## Полезные ссылки  
 [hexlet.io](https://ru.hexlet.io/ "js") - обучение js  
@@ -26,4 +27,4 @@
 [github.github.com/training-kit/](https://github.github.com/training-kit/downloads/ru/github-git-cheat-sheet/ "github.github.com/training-kit/") - команды в терминале для git   
 [rgblog.ru](http://rgblog.ru/page/git-dlja-chajnika-komandy-kotorye-pomogut-nachat-rabotu "rgblog.ru") - простые команды  
 [https://habr.com](https://habr.com/ru/company/otus/blog/466873/ "https://habr.com") - 5 вещей, которые чаще всего не понимают новички в JavaScript  
-https://habr.com/ru/company/otus/blog/466873/
+
