@@ -9,8 +9,10 @@
     align-items: center;
 }
 .foto_soc{
-    height: 70%;
-    width: 40%;
+    height: 650px;
+    width: 750px;
+    min-width: 450px;
+    min-height: 520px;
     background-image:url(../img/pic1.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -29,8 +31,8 @@
     margin: 0 0 3% 22%;
 }
 .description{
-    height: 70%;
-    width: 40%;
+    /* height: 90%; */
+    width: 30%;
     color: white ;
     background-color: #037270;
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.42);
@@ -41,6 +43,7 @@
 }
 .description p,ul,h3{
     margin: 2% 5% 2% 5%;
+    font-size: 1.4rem;
 }
 .soc_icons{
     width: calc(var(--sfs) * 1.9);
@@ -58,9 +61,15 @@
 .soc_icons__inst{
     background-image: url('../img/instagram.png');
 }
-.info__ul{
+.list{
     text-align: left;
     list-style-type: none;
+}
+.list__li{
+    list-style-type: none;
+}
+.list__li:before{
+    content:"-";
 }
 
 /* .info__ul li:nth-child(3):before{
