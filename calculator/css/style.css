@@ -19,6 +19,7 @@ html{
     margin-top: 20px;
 }
 .tablo{
+    overflow: hidden;
     width: 95%;
     height: 15%;
     border: 2px solid black;
