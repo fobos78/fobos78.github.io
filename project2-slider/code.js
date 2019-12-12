@@ -138,7 +138,16 @@ $(".promo").on('mouseenter', () => {
     });
 });
 
-
+$(document).keydown(function (enter) {
+    if (enter.keyCode == 39) 
+    {
+        $("#right").click();
+    }
+    if (enter.keyCode == 37) 
+    {
+        $("#left").click();
+    }
+});
 
 
 
