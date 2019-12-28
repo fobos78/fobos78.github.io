@@ -28,4 +28,5 @@
 [github.github.com/training-kit/](https://github.github.com/training-kit/downloads/ru/github-git-cheat-sheet/ "github.github.com/training-kit/") - команды в терминале для git   
 [rgblog.ru](http://rgblog.ru/page/git-dlja-chajnika-komandy-kotorye-pomogut-nachat-rabotu "rgblog.ru") - простые команды  
 [https://habr.com](https://habr.com/ru/company/otus/blog/466873/ "https://habr.com") - 5 вещей, которые чаще всего не понимают новички в JavaScript  
+[https://habr.com](https://habr.com/ru/post/149516/ "https://habr.com") - this что это в JavaScript(хорошие примеры)  
 
