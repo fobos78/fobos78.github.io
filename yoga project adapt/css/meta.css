@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+:root{
+    --light-green: #A6CC64;
+    --light-blue: #037270;
+    --light: #F1F9DE;
+    --dark-green: #8DCE33;
+    --turquoise: #037270;
+    --serif:'Playfair Display', serif;
+    --sans-serif: 'Roboto', sans-serif;
+    --sfs:24px;
+}
+

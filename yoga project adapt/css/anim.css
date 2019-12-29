@@ -1,0 +1,31 @@
+#spinner { 
+    width: 120px;
+    height: 120px;
+    background-image:url('../img/logo.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 10%; 
+    text-align: center; 
+    margin:0 auto;
+ 
+ 
+    -webkit-animation-name: spinner; 
+    -webkit-animation-timing-function: linear; 
+    -webkit-animation-iteration-count: infinite; 
+    -webkit-animation-duration: 8s; 
+ 
+    animation-name: spinner;  /* указываем на ключевые кадры анимации с названием "spinner" */
+    animation-timing-function: linear; /* функция синхронизации, с помощью которой будут происходить преобразования */
+    animation-iteration-count: infinite; /* количество повторов анимации. "infinite" - значит бесконечно */
+    animation-duration: 8s; /* длительность анимации */
+ 
+    -webkit-transform-style: preserve-3d; 
+    -moz-transform-style: preserve-3d; 
+    -ms-transform-style: preserve-3d; 
+    transform-style: preserve-3d; /* указываем что это 3D преобразование */
+} 
+ 
+#spinner:hover { 
+    -webkit-animation-play-state: paused; 
+    animation-play-state: paused; /* останавливаем анимацию */
+}
