@@ -30,5 +30,6 @@
 [https://habr.com](https://habr.com/ru/company/otus/blog/466873/ "https://habr.com") - 5 вещей, которые чаще всего не понимают новички в JavaScript  
 [https://habr.com](https://habr.com/ru/post/149516/ "https://habr.com") - this что это в JavaScript(хорошие примеры)  
 [https://habr.com](https://habr.com/ru/company/ruvds/blog/419371/ "https://habr.com") - this что это в JavaScript(хорошие примеры 2)  
-[youtube.com](https://www.youtube.com/watch?v=z5h-iQSB6Dw&list=PLxxUfNXtNloQ-N1ydwmw7LdwMiSEO3CUp&index=7&t=0s "youtube.com") - Объекты, аксессоры и дескрипторы
+[youtube.com](https://www.youtube.com/watch?v=z5h-iQSB6Dw&list=PLxxUfNXtNloQ-N1ydwmw7LdwMiSEO3CUp&index=7&t=0s "youtube.com") - Объекты, аксессоры и дескрипторы  
+[youtube.com](https://www.youtube.com/watch?v=uLY9GXGMXaA "youtube.com") - JavaScript. Все о ES6 Классах (+ Практическое Применение)  
 
