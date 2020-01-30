@@ -1,7 +1,10 @@
-AOS.init({
-    duration: 1000,
-  })
+// setTimeout ( rellax , 10000);
+// анимации появления обьектов
+    AOS.init({
+        duration: 1000,
+      })
 
+      // слайдер
   document.querySelectorAll('slider').forEach(slider => {
   
     let imgs = [...slider.querySelectorAll('img')];
@@ -17,7 +20,9 @@ AOS.init({
     update(0);
   });
 
-  let block = anime({
+
+  // вращение логотипа
+  let block = anime({  
     targets: '#transforms .block',
     rotateY: '360',
     easing: 'linear',
@@ -25,6 +30,7 @@ AOS.init({
     duration: 7000,
  });
 
+ // паралакс
  var rellax = new Rellax('.rellax', {
   speed: 1.3,
   center: true,
