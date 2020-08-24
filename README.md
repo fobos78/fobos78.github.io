@@ -11,6 +11,7 @@
 3. [Заказ](http://losklana-project.ru/ "проект") - Freelance заказ SPA приложения по йоге.
 -Используемые технологии: JS, HTML, CSS, PHP - http://losklana-project.ru/ - https://fobos78.github.io/yoga3-animashon/  
 
+[Проект](https://github.com/fobos78/internet-shop "Интернет магазин") - Интернет магазин на React Redux основные функции  
 [Калькулятор](https://fobos78.github.io/calculator/ "Калькулятор") - Калькулятор, простой еще немного нужно доработать.    
 [testYouRiaction](https://fobos78.github.io/testYouRiaction/ "testYouRiaction") - testYouRiaction - игра проверяет рекцию клика. Списал ее потому что наглядно показывает работу со временем и случайными числами, есть функция получения случайного цвета  
 [Мой слайдер](https://fobos78.github.io/slider_my "Мой слайдер") - Простой слайдер на JS    
