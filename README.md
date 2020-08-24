@@ -8,7 +8,7 @@
 2. [Kid Wars](https://github.com/fobos78/kidwars/  "Kid Wars") - веб и десктопная версия сайта, образовательное приложение для школьников с ограничением доступа к интернету и играм по усмотрению родителей и контролю сделанных заданий через телеграмм бот.
 -Используемые технологии: Node.js, Express, JS, React, Redux, MongoD, Mongoos, Electron, HTML, CSS - https://github.com/fobos78/kidwars  
 
-3. [Заказ](https://fobos78.github.io/yoga%20project%20adapt/ "проект") - Freelance заказ SPA приложения по йоге.
+3. [Заказ](http://losklana-project.ru/ "проект") - Freelance заказ SPA приложения по йоге.
 -Используемые технологии: JS, HTML, CSS, PHP - http://losklana-project.ru/ - https://fobos78.github.io/yoga3-animashon/  
 
 [Калькулятор](https://fobos78.github.io/calculator/ "Калькулятор") - Калькулятор, простой еще немного нужно доработать.    
