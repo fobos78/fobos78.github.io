@@ -2,13 +2,13 @@
 # Марсов Артем  
 
 ## Мои проекты  
-[Проект от заказчика](https://rent-wifi.herokuapp.com/  "[rent-wifi.herokuapp.com") - Веб приложение по аренде wi-fi роутеров для иностранцев
+1. [Проект от заказчика](https://rent-wifi.herokuapp.com/  "[rent-wifi.herokuapp.com") - Веб приложение по аренде wi-fi роутеров для иностранцев
 -Используемые технологии: Node.js, Express, JS, Hbs, MongoD, Mongoos, HTML, CSS ссылка на github https://github.com/s-verkashanskiy/rent-wifi  
 
-Kid Wars - веб и десктопная версия сайта, образовательное приложение для школьников с ограничением доступа к интернету и играм по усмотрению родителей и контролю сделанных заданий через телеграмм бот.
+2. Kid Wars - веб и десктопная версия сайта, образовательное приложение для школьников с ограничением доступа к интернету и играм по усмотрению родителей и контролю сделанных заданий через телеграмм бот.
 -Используемые технологии: Node.js, Express, JS, React, Redux, MongoD, Mongoos, Electron, HTML, CSS - https://github.com/fobos78/kidwars  
-[Заказ с анимацией](https://fobos78.github.io/yoga3-animashon/ "проект") - 30-01 Первый заказ ( сделал сайтик сестре ) "проект") - 30-01 Первый заказ ( сделал сайтик сестре )  
-[Заказ](https://fobos78.github.io/yoga%20project%20adapt/ "проект") -  - Freelance заказ SPA приложения по йоге.
+
+3. [Заказ](https://fobos78.github.io/yoga%20project%20adapt/ "проект") -  - Freelance заказ SPA приложения по йоге.
 -Используемые технологии: JS, HTML, CSS, PHP - http://losklana-project.ru/ - https://fobos78.github.io/yoga3-animashon/  
 
 [Калькулятор](https://fobos78.github.io/calculator/ "Калькулятор") - Калькулятор, простой еще немного нужно доработать.    
