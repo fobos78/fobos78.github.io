@@ -3,8 +3,7 @@
 
 ## Мои проекты  
 [Проект от заказчика](https://rent-wifi.herokuapp.com/  "[rent-wifi.herokuapp.com") - - Веб приложение по аренде wi-fi роутеров для иностранцев
--Используемые технологии: Node.js, Express, JS, Hbs, MongoD, Mongoos, HTML, CSS
-- https://github.com/s-verkashanskiy/rent-wifi  
+-Используемые технологии: Node.js, Express, JS, Hbs, MongoD, Mongoos, HTML, CSS ссылка на github https://github.com/s-verkashanskiy/rent-wifi  
 [Проект](fobos78.github.io/project1/ "проект") - 09-11 первая часть проекта  
 [Заказ](https://fobos78.github.io/yoga%20project%20adapt/ "проект") - 22-11 Первый заказ ( сделал сайтик сестре )  
 [Заказ с анимацией](https://fobos78.github.io/yoga3-animashon/ "проект") - 30-01 Первый заказ ( сделал сайтик сестре ) "проект") - 30-01 Первый заказ ( сделал сайтик сестре )  
