@@ -1,14 +1,17 @@
 ![мое фото](fobos78.github.io/Artem.jpg "мое фото")  
 # Марсов Артем  
 
-## Мои проекты  
-1. [Проект от заказчика](https://rent-wifi.herokuapp.com/  "[rent-wifi.herokuapp.com") - Веб приложение по аренде wi-fi роутеров для иностранцев
+## Мои проекты 
+1. [Проект от заказчика](http://easy-en.ru/  "[easy-en.ru") - Веб приложение для асоциативного запоминания слов, с возможностью добавления своих слов
+-Используемые технологии: React, Redux, Thunk, TypeScript, Node.js, Express, JS, MongoD, Mongoos, HTML, CSS ссылка на github https://github.com/fobos78/easyEnglish 
+
+2. [Проект от заказчика](https://rent-wifi.herokuapp.com/  "[rent-wifi.herokuapp.com") - Веб приложение по аренде wi-fi роутеров для иностранцев
 -Используемые технологии: Node.js, Express, JS, Hbs, MongoD, Mongoos, HTML, CSS ссылка на github https://github.com/s-verkashanskiy/rent-wifi  
 
-2. [Kid Wars](https://github.com/fobos78/kidwars/  "Kid Wars") - веб и десктопная версия сайта, образовательное приложение для школьников с ограничением доступа к интернету и играм по усмотрению родителей и контролю сделанных заданий через телеграмм бот.
+3. [Kid Wars](https://github.com/fobos78/kidwars/  "Kid Wars") - веб и десктопная версия сайта, образовательное приложение для школьников с ограничением доступа к интернету и играм по усмотрению родителей и контролю сделанных заданий через телеграмм бот.
 -Используемые технологии: Node.js, Express, JS, React, Redux, MongoD, Mongoos, Electron, HTML, CSS - https://github.com/fobos78/kidwars  
 
-3. [Заказ](http://losklana-project.ru/ "проект") - Freelance заказ SPA приложения по йоге.
+4. [Заказ](http://losklana-project.ru/ "проект") - Freelance заказ SPA приложения по йоге.
 -Используемые технологии: JS, HTML, CSS, PHP - http://losklana-project.ru/ - https://fobos78.github.io/yoga3-animashon/  
 
 [Проект](https://github.com/fobos78/internet-shop "Интернет магазин") - Интернет магазин на React Redux основные функции  
