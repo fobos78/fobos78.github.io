@@ -2,7 +2,7 @@
 # Марсов Артем  
 
 ## Мои проекты 
-1. [Проект от заказчика](http://easy-en.ru/  "[easy-en.ru") - Веб приложение для асоциативного запоминания слов, с возможностью добавления своих слов
+1. [Pet - проект](http://easy-en.ru/  "[easy-en.ru") - Веб приложение для асоциативного запоминания слов, с возможностью добавления своих слов
 -Используемые технологии: React, Redux, Thunk, TypeScript, Node.js, Express, JS, MongoD, Mongoos, HTML, CSS ссылка на github https://github.com/fobos78/easyEnglish 
 
 2. [Проект от заказчика](https://rent-wifi.herokuapp.com/  "[rent-wifi.herokuapp.com") - Веб приложение по аренде wi-fi роутеров для иностранцев
